@@ -1,6 +1,6 @@
 {
     "appTitle": "Christmas Ringtones & Wallpaper",
-    "appSplashLogo": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Navratri+Ringtones+%26+Aarti.jpg",
+    "appSplashLogo": "https://christmas-2023-app.s3.ap-south-1.amazonaws.com/images/Christmas-icon.png",
     "mainScreenContent": {
         "mainListView": [
             {
@@ -908,11 +908,11 @@
         }
     ],
     "settingsPage": {
-        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Navratri+Ringtones+%26+Aarti.jpg",
-        "privacyPolicy": "https://www.freeprivacypolicy.com/live/ec0e4061-8758-44ef-b232-32dc10cfddc7",
-        "termsCondition": "https://www.freeprivacypolicy.com/live/426cba36-0444-466a-b561-607846863105",
-        "shareTheApp": "Hey! I found a very good application to download Navratri Ringtones & Aarti. Download now, \n\n\n https://play.google.com/store/apps/details?id=com.uniquetechmedia.navratriringtonesnew",
-        "rateTheApp": "https://play.google.com/store/apps/details?id=com.uniquetechmedia.navratriringtonesnew",
+        "mainImage": "https://christmas-2023-app.s3.ap-south-1.amazonaws.com/images/Christmas-icon.png",
+        "privacyPolicy": "https://www.freeprivacypolicy.com/live/7c9e4a97-431f-4ce1-938c-4991d74d5054",
+        "termsCondition": "https://www.freeprivacypolicy.com/live/4012c6e4-22e2-451e-aab9-30f3cb4ec702",
+        "shareTheApp": "Hey! I found a very good application to download Christmas Ringtones & Wallpaper. Download now, \n\n\n https://play.google.com/store/apps/details?id=com.uniquetechmedia.christmasringtonesnew",
+        "rateTheApp": "https://play.google.com/store/apps/details?id=com.uniquetechmedia.christmasringtonesnew",
         "moreApp": "https://play.google.com/store/apps/developer?id=Unique+Tech+Media"
     },
     "adsData": {
